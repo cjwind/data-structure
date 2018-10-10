@@ -1,0 +1,26 @@
+DFS:
+2 1 5 9 6 8 10 7 3 4 11 
+1's parent: 2
+2's parent: 0
+3's parent: 7
+4's parent: 7
+5's parent: 2
+6's parent: 9
+7's parent: 2
+8's parent: 6
+9's parent: 5
+10's parent: 6
+11's parent: 7
+============
+BFS:
+2
+1
+5
+7
+9
+3
+4
+11
+6
+8
+10
